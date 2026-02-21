@@ -3,4 +3,8 @@
 
 Name: "Emmanuella Emmanuel"
 Learning: "Git & GitHub"
-Goal: "Become a Professional Developer" 
+Goal: "Become a Professional Developer"
+Skills:
+- Python
+- Git
+- FastAPI 
